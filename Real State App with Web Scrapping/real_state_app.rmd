@@ -1,0 +1,1 @@
+Here,we scrapping is implemented for accessing and tabulizing data from a real state website and page.
